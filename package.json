@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": false,
   "description": "GitHub website style syntax theme.",
-  "repository": "https://github.com/atom/github-web",
+  "repository": "https://github.com/JonMidhir/github-web",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
